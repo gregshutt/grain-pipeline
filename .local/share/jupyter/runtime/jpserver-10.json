@@ -1,0 +1,13 @@
+{
+  "base_url": "/notebook/grain/grain/",
+  "hostname": "localhost",
+  "password": false,
+  "pid": 10,
+  "port": 8888,
+  "root_dir": "/opt/app-root/src",
+  "secure": false,
+  "sock": "",
+  "token": "",
+  "url": "http://localhost:8888/notebook/grain/grain/",
+  "version": "2.17.0"
+}
