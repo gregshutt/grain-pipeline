@@ -1,4 +1,5 @@
 onnxruntime
 onnxruntime-tools
+onnxscript
 open_clip_torch[training]
-git+https://github.com/Keeyahto/CLIP-ONNX.git
+git+https://github.com/gregshutt/CLIP-ONNX.git
