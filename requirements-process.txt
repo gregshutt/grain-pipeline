@@ -1,2 +1,2 @@
 minio
-webdataset
+webdataset==0.2.86

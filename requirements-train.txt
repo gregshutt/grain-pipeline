@@ -1,1 +1,3 @@
+awscli
 open_clip_torch[training]
+webdataset==0.2.86
